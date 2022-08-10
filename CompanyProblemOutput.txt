@@ -1,0 +1,8 @@
+Incomes of engineers credited
+Incomes of accountants credited
+Average salary of engineers is 7938.0
+Maximum salary amongst engineers is 9984
+Minimum salary amongst engineers is 5543
+Average salary of accountants is 7406.6
+Maximum salary amongst accountants is 9500
+Minimum salary amongst accountants is 3352

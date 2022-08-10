@@ -1,0 +1,4 @@
+Top Speed of the vehicle is 100 kmph
+Top Speed of the vehicle is 100 kmph
+SUV fuel type is Diesel
+Car fuel type is Petrol
